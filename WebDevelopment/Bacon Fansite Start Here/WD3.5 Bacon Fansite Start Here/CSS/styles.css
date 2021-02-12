@@ -1,0 +1,33 @@
+h1 {
+
+   color :    red;
+   font-size: 50px;
+}
+
+
+
+img:hover  {
+   background-color: gold;
+
+}
+
+
+/* class selector */
+
+.bacon {
+
+  background-color: lightblue;
+}
+
+.flag {
+
+   background-color: black;
+}
+.circular {
+   border-radius: 10%;
+}
+
+/* id selector */
+#heading{
+  color:green;
+}
